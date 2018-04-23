@@ -1,2 +1,17 @@
 # phaser3-parcel-starter
-Phaser 3 Parcel Starter(ES6)
+Phaser 3 Parcel Starter pack(ES6) for small web-based games
+
+## Installation & Development
+
+```
+git clone https://github.com/candelibas/phaser3-parcel-starter.git
+cd phaser3-parcel-starter
+yarn install
+yarn start
+```
+
+## Build
+
+```
+yarn build
+``` 
